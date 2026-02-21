@@ -21,6 +21,6 @@ I'm based in **Jakarta, Indonesia**
 
 # 📞 Contacts
 Feel free to hit me up on:  
-👨 [**LinkedIn**](https://www.linkedin.com/in/achmadfirdausadinegoro/)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/achmadfirdausadinegoro/)  
 📧 [**Email**](achmadfirdausadinegoro@gmail.com)  
 🎥 [**YouTube**](https://www.youtube.com/@Victim_Crasher)
