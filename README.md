@@ -4,7 +4,7 @@ Consistently delivers high-quality work on time, demonstrating a strong ability 
 
 I'm based in **Jakarta, Indonesia**  
 
-[![**🌐 Check out my Portfolio**](https://img.shields.io/badge/%F0%9F%8C%90%20Check%20out%20my%20Portfolio%21-20B2AA?style=for-the-badge)](https://me.victim-crasher.com/)  
+<a href="https://me.victim-crasher.com/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Check%20out%20my%20Portfolio%21-20B2AA?style=for-the-badge"></img></a>
 
 # 👩‍💻 Highlighted Projects
 🌐 [**Personal Portfolio**](https://github.com/VictimCrasher/irl-web)    - My personal portfolio website, built using **React + Vite + Material UI**.  
