@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/banner.png" />
+</p>
+
 # 👋 Hello! I'm **Achmad Firdaus Adinegoro** 
 I'm a result-oriented technology professional with proven versatility across web development, machine learning, and graphic design.
 Consistently delivers high-quality work on time, demonstrating a strong ability to quickly master new technologies and domains.  
