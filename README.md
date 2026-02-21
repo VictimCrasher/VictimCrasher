@@ -2,11 +2,13 @@
   <img src="public/banner.png" />
 </p>
 
-# 👋 Hello! I'm **Achmad Firdaus Adinegoro** 
+# 👋 Hello!
+I'm **Achmad Firdaus Adinegoro** a.k.a. **Victim Crasher** _(yeah, it's a weird name, I came up with it when I was a child since it "sounds cool")_  
+
 I'm a result-oriented technology professional with proven versatility across web development, machine learning, and graphic design.
 Consistently delivers high-quality work on time, demonstrating a strong ability to quickly master new technologies and domains.  
 
-I'm based in **Jakarta, Indonesia**  
+I'm based in **Jakarta, Indonesia**.  
 
 <a href="https://me.victim-crasher.com/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Check%20out%20my%20Portfolio%21-20B2AA?style=for-the-badge"></img></a>
 
